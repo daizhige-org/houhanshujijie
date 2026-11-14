@@ -36,8 +36,16 @@ ZIP_NOTE = """《後漢書集解》在線閱讀站 離線包
 data/j/<卷>.json 是各卷正文，data/s/<卷>.txt 是檢索用的純文本
 （每行：頁碼、段序、文本，以製表符分隔），data/toc.json 是卷目。
 
-文本來源：維基文庫《後漢書集解》整理本（CC BY-SA）。絕大部分頁面尚未校對，
-引用前請核對掃描原圖。
+絕大部分頁面尚未校對，引用前請核對掃描原圖。
+
+版權說明
+
+《後漢書集解》原書（王先謙集解，黃山校補，1915–1924 年刻）已進入公有領域。掃描圖為慶應義塾大學圖書館藏本，載於維基共享資源。
+
+本站文本的底稿由殆知閣整理並上傳至維基文庫，依維基文庫的 CC BY-SA 4.0 協議發佈；維基文庫用戶其後所作的修訂同樣依該協議授權。原書文字屬公有領域的部分，殆知閣不主張任何版權，CC BY-SA 僅及於整理、校訂中可能產生權利的部分。
+
+網站本身（程序與界面設計）版權歸殆知閣所有，依 GNU Affero 通用公共許可證第 3 版或其後版本（AGPL-3.0-or-later）發佈，
+許可證全文見包內 LICENSE，源代碼在 https://github.com/daizhige-org/houhanshujijie 。
 """
 PAGE_RE = re.compile(r"^〔第(\d+)頁〕$", re.M)
 PROOFREAD = 3  # 維基文庫校對等級 ≥3 為已校對/已核對
@@ -54,6 +62,7 @@ def make_zip():
             info.external_attr = 0o644 << 16
             z.writestr(info, data)
         add("README.txt", ZIP_NOTE.encode("utf-8"))
+        add("LICENSE", (ROOT / "LICENSE").read_bytes())
         for f in files:
             add(f.relative_to(site).as_posix(), f.read_bytes())
     return len(files), ZIP.stat().st_size

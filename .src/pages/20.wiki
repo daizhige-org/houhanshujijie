@@ -98,8 +98,11 @@
 贊曰。襄賁勵德。維城燕北。{{*|勵、勉也}}仁能洽下。忠以衛國。伯珪疏獷。武才趫猛。{{*|趫音去驕反。}}虞好無終。紹埶難並。徐方殲耗。實謙爲梗。<noinclude></noinclude>
 
 〔第25頁〕
-<noinclude><pagequality level="1" user="CollationBot" /></noinclude>
+<noinclude><pagequality level="3" user="PacmanD" /></noinclude>
 {{c|劉虞公孫瓚陶謙列傳第六十三{{*|終}}{{gap|6em}}後漢書七十三}}<noinclude></noinclude>
+
+〔第26頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第27頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -617,6 +620,9 @@
 
 坐談奚望。注。萬一劉表使劉備襲許。{{*|官本注。備上無劉字。}}<noinclude></noinclude>
 
+〔第106頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第107頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|劉焉袁術呂布列傳第六十五{{gap|6em}}後漢書七十五}}
@@ -873,6 +879,9 @@
 卿爲座上客。{{*|官本。座作坐。同、}}
 
 宮指布曰是子不用宮言。㠯至於此。{{*|案典略言宮爲布畫策。布每不從。宮謂布不用其言。亦綜平昔所言論耳。至謀使布自以步騎出屯於外布嘗自將千餘騎出戰而敗矣其言豈可用乎。}}<noinclude></noinclude>
+
+〔第144頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第145頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1152,6 +1161,9 @@
 理善亨鮮。{{*|官本文注。亨皆作烹。古今字。}}
 
 懷我風愛。永載遺賢。注。博贍可不及之。{{*|案據宋書南史。可不均作不可。}}<noinclude></noinclude>
+
+〔第186頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第187頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>

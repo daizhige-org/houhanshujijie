@@ -216,6 +216,9 @@
 
 不盈者十之。所得爲分。集解。盧文弨曰。{{*|至}}爲小分。{{*|王正樞曰。此謂如前用除法。其有不盈法數之奇零。則以十乘之。乃除所得爲分數。又不盈法數。則又以十乘之。乃以法數除之。所得爲小分。小分以下之奇零。則以强弱記之也。盧說全非。}}<noinclude></noinclude>
 
+〔第42頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第43頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|律暦志中第二{{*|賈逵論暦　永元論暦　延光論暦漢安論暦　熹平論暦　論月食}}{{gap|6em}}後漢書二}}
@@ -434,6 +437,9 @@
 復作八元術{{*|官本復作後。非。}}
 
 太常就耽{{*|官本耽或作耽俗字。}}<noinclude></noinclude>
+
+〔第88頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第89頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1033,6 +1039,9 @@
 臣欲制刪定者一集解盧文弨曰。制字衍。{{*|王正樞曰。邕集無制字}}
 
 本奏詔書。集解盧文弨曰。奏當作奉。{{*|王正樞曰。奏字是。今案本奏詔書者。邕等原奏所陳。已奉有詔書者也。邕傳注。亦引作奏。自非誤字}}<noinclude></noinclude>
+
+〔第182頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第183頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>

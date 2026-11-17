@@ -237,6 +237,9 @@
 
 御史中丞一人、{{*|至}}有違失舉劾之。{{*|官本劾譌刻。}}<noinclude></noinclude>
 
+〔第32頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第33頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|百官志四第二十七{{*|執金吾　太子太傅　大長秋太子少傅　將作大匠　城門校尉　北軍中候司隸校尉}}{{gap|6em}}後漢書二十七}}
@@ -657,6 +660,9 @@
 
 百官受奉例{{*|至}}凡諸受奉皆半錢半穀。集解先謙曰。{{*|至}}考證云。舉當作奉。{{*|謹案此注下文。皆以月計。似奉舉皆月之譌。否則奉下脫月字。}}<noinclude></noinclude>
 
+〔第88頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第89頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|輿服志上第二十九{{*|玉輅　乘輿　金根　安車　立車耕車　戎車　獵車　輧車　靑葢車　綠車　皁葢車　夫人安車　大駕　法駕　小駕輕車　大使車　小使車　載車　導從車　車馬飾}}{{gap|6em}}後漢書二十九}}
@@ -879,6 +885,9 @@
 {{*|當衍矣。御覽單言}}
 
 伏虎。仍有脱誤。<noinclude></noinclude>
+
+〔第126頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第127頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1158,6 +1167,9 @@
 〔第169頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 而求中興盛軌。於以楬治亂之迹。竢夫窮而用返者。得所覽以爲折衷也。而大家卒能承先生遺志俾是書與前漢書補注幷傳其爲賢勤古。豈多得哉。山實用冥。客中又乏書卷之助。强自坿於識小尙賴四方淹雅傳先生學者從而救正之斯小子之幸矣。挍補旣畢。先生長嗣興祖湘閣與弟祖陶、祖用請識其事。以無忘大家之勤。於是乎書。癸亥季冬月朔門人同邑黃山謹跋於杭州旅次<noinclude></noinclude>
+
+〔第170頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第171頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>

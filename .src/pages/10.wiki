@@ -99,6 +99,9 @@
 
 是夏。洛陽大水。{{*|官本。大作暴。與續志劉注合。}}<noinclude></noinclude>
 
+〔第18頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第19頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|郎顗襄楷列傳第二十下{{gap|6em}}後漢書三十下}}
@@ -362,6 +365,9 @@
 
 其言以陰陽五行爲家。注。四時失陰陽。{{*|官本。四時上多五行二字}}<noinclude></noinclude>
 
+〔第66頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第67頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|郭杜孔張廉王蘇羊賈陸列傳第二十一{{gap|6em}}後漢書三十一}}
@@ -596,6 +602,9 @@
 迺命御者褰之。{{*|案刺史車帷。非奉敕書。不敢去。故但褰之。}}
 
 陸康傳。除高成令。注。高成縣、屬渤海郡也。集解。先謙曰。今天津府鹽山縣東北三十里。{{*|謹案續志勃海郡有高城侯國無高成縣。然黨錮傳。巴肅、勃海高城人也。注云。高城縣故城在今滄州鹽山縣南。似高成固卽高城矣。改縣爲侯國。續志葢就其後言之。}}<noinclude></noinclude>
+
+〔第106頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
 
 〔第107頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -921,6 +930,9 @@
 
 周章傳。其冬。代尹勤爲司空。{{*|錢大昭曰。章爲司空。安紀在永初元年九月。冬當作秋。}}<noinclude></noinclude>
 
+〔第166頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第167頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|梁統列傳第二十四{{*|子松竦曾孫商𤣥孫冀}}{{gap|6em}}後漢書三十四}}
@@ -1131,3 +1143,6 @@
 無少長。皆棄市。{{*|侯康曰。水經河水注。載梁暉字始娥。漢大將軍梁冀後。冀誅入羌暉祖父爲羌所推爲渠帥是冀後未絕也}}
 
 百姓莫不稱慶。{{*|侯康曰常璩犍爲士女讚。趙敦字建侯。武陽人也。初爲新都令。德禮宣流。三司及大將軍梁冀累辟終不詣冀辟書不絕後冀自殺使者監守不使人弔問敦獨往弔祭訖自拘有司天子赦之}}<noinclude></noinclude>
+
+〔第206頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>

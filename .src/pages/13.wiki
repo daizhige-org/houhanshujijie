@@ -293,6 +293,9 @@
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 永初元年。封壽弟八人爲列侯。立十七年薨。{{*|案文。立上脫壽字。}}<noinclude></noinclude>
 
+〔第52頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第53頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|朱樂何列傳第三十三{{*|朱暉孫穆}}{{gap|6em}}後漢書四十三}}

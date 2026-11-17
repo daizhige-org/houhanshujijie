@@ -460,6 +460,9 @@
 
 輪、續志同。前志作綸<noinclude></noinclude>
 
+〔第88頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第89頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|桓榮丁鴻列傳第二十七{{gap|6em}}後漢書三十七}}
@@ -657,6 +660,9 @@
 
 案文多一云字。大將軍雖不受{{*|錢大昭曰閩本雖下有云字。}}<noinclude></noinclude>
 
+〔第120頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第121頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|張法滕馮度楊列傳第二十八{{gap|6em}}後漢書三十八}}
@@ -833,3 +839,6 @@
 年五十。延熹九年。卒於官。集解。惠棟曰。蔡邕集有度侯碑。見文選注。卽隸釋所載荆州刺史碑。是。{{*|案文選三國名臣贊注引蔡邕度侯碑。朗鑒出於自然。英風發於天骨。題曰度侯。是尙免官後得食故秩。未奪爵土遂以侯終。而傳篤遼東太守卒官之誤益見矣。且尙復爲荆州刺史。在破胡蘭後。紀載尙破胡蘭。爲延熹八年五月。復拜刺史又在其後。經過張磐會赦。不肯出獄。尙被徵詣廷尉。辭窮受罪。已乃得原。計八年且畢矣。九年尙卽卒。距出獄無幾時。安得曰後爲遼東太守乎。}}
 
 楊璇傳。會稽烏傷人也。{{*|烏傷。今金華府義烏縣治。}}<noinclude></noinclude>
+
+〔第150頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>

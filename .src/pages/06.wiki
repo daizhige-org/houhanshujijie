@@ -233,6 +233,9 @@
 
 以明丹靑之信。注。楊雄法言曰。{{*|楊、官本作揚。案雄姓。前書本傳雖據雄自序从手。而古書相承多从本亦自有所據。已見前書雄傳補注。故不具。}}<noinclude></noinclude>
 
+〔第48頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第49頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|宗室四王三侯列傳第四{{gap|6em}}後漢書十四}}
@@ -362,8 +365,11 @@
 
 贊曰。齊武沈雄。義戈乘風。{{*|以義舉兵。乘風雲之會也。}}倉卒匪圖。亡我天工。城陽早協。趙孝晚同。泗水三侯。或恩或功。<noinclude></noinclude>
 
+〔第77頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第78頁〕
-<noinclude><pagequality level="1" user="CollationBot" /></noinclude>
+<noinclude><pagequality level="3" user="PacmanD" /></noinclude>
 {{c|宗室四王三侯列傳第四{{*|終}}{{gap|6em}}後漢書十四}}<noinclude></noinclude>
 
 〔第79頁〕
@@ -1053,3 +1059,6 @@
 九死而未悔。{{*|官本無而字。}}
 
 注、楚詞曰。雖九死猶未悔也。{{*|官本。猶作而。申生不辭姬氏讒邪之謗。注、事見左氏傳也。官本注未無也字}}<noinclude></noinclude>
+
+〔第180頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>

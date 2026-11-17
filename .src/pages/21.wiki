@@ -741,6 +741,9 @@
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|儒林傳第六十九下{{*|終}}{{gap|6em}}後漢書七十九下}}<noinclude></noinclude>
 
+〔第122頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第123頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|後漢書集解卷七十九下校補}}
@@ -826,6 +829,9 @@
 人誦先王言也。下畏逆順埶也。注。言政化雖壞。而朝夕不傾危者。{{*|官本。夕作久。案朝夕不傾危。謂猶得保朝夕也。說亦可通。}}
 
 然後羣英乘其運。世德終其祚。注。謂曹丕卽位。廢帝爲山陽公。{{*|官本。曹丕作操丕。非。}}<noinclude></noinclude>
+
+〔第128頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第129頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1408,3 +1414,6 @@
 迺厚加棺斂。{{*|柳從辰曰。一統志。衡墓在江夏縣西鸚䳇洲。今淪於江。辰案今洲尙有衡墓。或非眞冢也。}}
 
 言觀麗則。永監淫費。集解。王補曰。{{*|至}}尙鑑於斯。{{*|案范史文苑傳。甄錄所及。皆有關係文字。章華一賦。亦謂終之以正。僅乃存之。匪是必不著。所謂言觀麗則。永監淫費者也。漢世文字。其典重深厚。本非可以僞爲。傳中敍列。惟王隆、劉毅、王逸、張超。並其卒年失載。略無可徵。若乃戰邊忘生。扞寇保疆。是謂忠義。歷著稱績。敷宣德政。是謂循良。擅著作之長。克伸史職。是謂立言。肆貧賤之志。不應辟除。是謂有守。而文強之每存憂濟。劉梁之儒化大行。尤其卓犖可紀者內官至尙書令衛尉。外官至都尉守相。抑又非卑也。琦升讓衡。誠則不幸。亦視所遘何時所不屈者何人耳。要之二十二人中。固未有濡忍苟賤。求合當世。以弋富貴者也。不得中行。必也狂狷。而猥曰皆淺中小夫。可乎哉。矧酈炎以母憂動疾。不獲解罪。讀遺令者。莫不哀其孝。將有何咎。延壽卒踐妖夢。以隕天年。乃又誤以爲逸而訾謷之。尤論史之疏也。}}<noinclude></noinclude>
+
+〔第214頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

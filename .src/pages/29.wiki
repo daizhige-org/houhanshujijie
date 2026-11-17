@@ -513,6 +513,9 @@
 
 右涼州刺史部郡十二。{{*|官本。郡下多國字。}}<noinclude></noinclude>
 
+〔第90頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第91頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|郡國志五第二十三{{*|下}}{{gap|6em}}後漢書二十三}}
@@ -888,6 +891,9 @@
 
 民戶九百六十九萬八千六百三十。口四千九百一十五萬二百二十注。沖帝永嘉元年。{{*|至}}百八步。又注。質帝本初元年。{{*|至}}三十八畝。{{*|侯康曰。馬貴與云。沖質二帝。享國各止一年。二年之間。史所載無大兵革饑饉。而永嘉戶數損于建安一萬本初戶數損于永嘉五十八萬有奇殊不可曉}}<noinclude></noinclude>
 
+〔第158頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第159頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|百官志一第二十四{{*|太傅　太尉　司徒司空　將軍}}{{gap|6em}}後漢書二十四}}
@@ -1014,6 +1020,9 @@
 掾屬二十九人注案本傳東平王作驃騎掾史四十人。{{*|柳從辰曰。東平憲王蒼傳。章懷引漢官儀。將軍掾屬二十九人。中大夫無員。令史四十一人。與此注異。今案范書東平王傳文。不載驃騎掾史。剡令所引。葢是續漢書本傳文。}}
 
 明帝初置度遼將軍注。明帝十八年。{{*|柳從辰曰。據紀事在永平八年。故志以爲明帝初。十字衍。今案史無紀年不著年號者。葢注實闕永字。平字亦殘其半。遂譌爲十字也。}}<noinclude></noinclude>
+
+〔第178頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第179頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1237,3 +1246,6 @@
 及郡國上計。匡四方來亦屬焉。{{*|案孟子。勞之。來之。匡之。直之。}}
 
 注而可無乎。{{*|官本注。可或譌百。}}<noinclude></noinclude>
+
+〔第206頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

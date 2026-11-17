@@ -389,6 +389,9 @@
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 趙國有檀臺。注。魏獻榮椽。{{*|椽原譌掾、官本注同。依史記正。}}<noinclude></noinclude>
 
+〔第72頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第73頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|郡國志三第二十一{{gap|6em}}後漢書二十一}}
@@ -661,6 +664,9 @@
 〔第123頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{*|能涉流沙。通西海。因封爲海西侯。班表不著侯國地所屬。師古亦未言是否卽東海海西縣。仍難確定耳。}}<noinclude></noinclude>
+
+〔第124頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第125頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1262,3 +1268,6 @@
 豫章郡。歷陵。有傅易山。{{*|傅易原譌傳易。據前志班注正。官本不誤。}}
 
 臨汝。集解。先謙曰。前漢無。三國吳因置臨川郡。治此。{{*|柳從辰曰。一統志謂後漢分南城縣置臨汝。此不知何據。寰宇記謂吳臨川郡。卽以南城、臨汝二縣立。是則郡地僅得前漢南城一縣也}}<noinclude></noinclude>
+
+〔第240頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

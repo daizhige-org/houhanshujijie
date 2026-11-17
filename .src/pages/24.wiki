@@ -696,6 +696,9 @@
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{*|而注者。又論自及中興之初。更通舊好以下、所言皆已具於傳。率不須注。而複沓紕繆。至於不可究詰疑章懷本皆無注。而妄人附益之。且又不出一手也。劉攽以爲分值非其人。洪亮吉猶惜其略實今但於其當去者痛加刊削反可不累全書}}<noinclude></noinclude>
 
+〔第118頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第119頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|烏桓鮮卑列傳第八十{{gap|6em}}後漢書九十}}

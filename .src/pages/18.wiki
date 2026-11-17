@@ -464,6 +464,9 @@
 
 圖季札子產晏嬰叔向四像。{{*|侯康曰。漢人多於墟墓間。圖寫古聖賢形像。水經注所載司隸校尉魯恭冢。荆州刺史李剛墓。皆是也。今濟甯州嘉祥縣。尙存武氏墓前石室畫像。邠卿亦有仿而行也。}}<noinclude></noinclude>
 
+〔第82頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第83頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|皇甫張段列傳第五十五{{gap|6em}}後漢書六十五}}
@@ -737,6 +740,9 @@
 
 去羌所屯凡亭山四十五里。集解。通鑑胡注{{*|至}}杜佑作瓦亭山。{{*|柳從辰曰。今固原州北有瓦亭驛。有山名六盤山。卽隴山。水經注。隴山水厯瓦亭北謂之瓦亭澤。是瓦亭山。卽今之隴山也。}}<noinclude></noinclude>
 
+〔第130頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第131頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|陳王列傳第五十六{{gap|6em}}後漢書六十六}}
@@ -865,6 +871,9 @@
 〔第159頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|陳王列傳第五十六{{*|終}}{{gap|6em}}後漢書六十六}}<noinclude></noinclude>
+
+〔第160頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第161頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>

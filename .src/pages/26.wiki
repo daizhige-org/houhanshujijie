@@ -193,6 +193,9 @@
 
 其每朔唯十月旦從故事者。高祖定秦之月。元年歲首也。注。蔡邕曰。羣臣朝見之儀。視不晚朝十月朔之故。{{*|案文晚當爲免之誤}}<noinclude></noinclude>
 
+〔第34頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第35頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|禮儀志下第六{{*|大喪　諸侯王列侯始封貴人公主薨}}{{gap|6em}}後漢書六}}
@@ -343,6 +346,9 @@
 舜葬紀。亦不變肆。{{*|錢大昭曰。今吕覽亦作市。案官本作市。葢本此。}}
 
 諸侯、王、列侯始封。貴人公主薨。{{*|至}}皆賜器。{{*|錢大昭曰。賻錢之制。見中山簡王焉。濟北惠王壽傳志不載。今案二傳言賻。僅及諸王。其在諸侯公主、公、將軍、特進。當亦同有賜賻之事穀梁隱三年傳。歸死者曰賵。歸生者曰賻。志所載皆賵之事。故不及賻也。}}<noinclude></noinclude>
+
+〔第60頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第61頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1151,6 +1157,9 @@
 
 十月甲辰太白晝見。{{*|官本十月作七月。}}<noinclude></noinclude>
 
+〔第186頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第187頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|天文志下第十二{{*|桓三十八　靈二十獻九　隕石}}{{gap|6em}}後漢書十二}}
@@ -1267,3 +1276,6 @@
 時益州從事周羣。㠯荆州牧將死而失土。{{*|案文時字衍。以下脫爲字。}}
 
 㠯小子琮自代。{{*|官本代譌伐。}}<noinclude></noinclude>
+
+〔第200頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

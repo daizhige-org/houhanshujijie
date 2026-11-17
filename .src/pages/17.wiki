@@ -257,6 +257,9 @@
 
 族孫日磾。注。三輔決錄注云。{{*|官本注無云字}}<noinclude></noinclude>
 
+〔第38頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第39頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|蔡邕列傳第五十下{{gap|6em}}後漢書六十下}}
@@ -573,6 +576,9 @@
 連珠{{*|侯康曰。類聚五十七引傅元敍連珠曰蔡邕似論言質而辭碎然旨篤矣。}}
 
 章表。{{*|沈銘彞曰邕薦董卓表。極爲推重收邕時。不聞以此罪之。當由王允未見此表耳而流傳至今爲後世增一口實才之爲累如此}}<noinclude></noinclude>
+
+〔第88頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
 
 〔第89頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -909,6 +915,9 @@
 
 位及志差。注。差音楚宜反。{{*|官本注。宜作家。非。}}<noinclude></noinclude>
 
+〔第144頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第145頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|荀韓鍾陳列傳第五十二{{gap|6em}}後漢書六十二}}
@@ -1161,3 +1170,6 @@
 注由是顯名也{{*|官本注末無也字。}}
 
 弟諶。字季方。集解。惠棟曰。{{*|至}}忠字孝先。州辟不就。{{*|柳從辰曰。世說。元方子羣。季方子忠。各論其父功德。爭之不能決。諮於祖太邱。太邱曰。元方難爲兄。季方難爲弟。}}<noinclude></noinclude>
+
+〔第184頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

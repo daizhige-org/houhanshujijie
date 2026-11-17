@@ -642,6 +642,9 @@
 
 然則側足而墊之。{{*|官本注無側足二字}}<noinclude></noinclude>
 
+〔第94頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第95頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|方術列傳第七十二下{{gap|6em}}後漢書八十二下}}
@@ -1183,3 +1186,6 @@
 漢陰老父傳漢陰集解惠棟曰御覽作漢濱。{{*|今案本書目錄亦作漢濱}}
 
 陳留老父傳二丈夫。{{*|官本丈作大今案二丈夫猶云二男子耳升旣去官其友亦未詳何人班草抱泣而老父乃以二大夫稱之如前書之美二疏疑於不倫矣毛作丈夫非有誤也}}<noinclude></noinclude>
+
+〔第168頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

@@ -621,6 +621,9 @@
 
 權譎時逼注。謂詭辭以對。{{*|官本注。對下有卓字。}}<noinclude></noinclude>
 
+〔第100頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
+
 〔第101頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|皇甫嵩朱雋列傳第六十一{{gap|6em}}後漢書七十一}}
@@ -807,6 +810,9 @@
 〔第129頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{*|逆節諸臣也。乃又惜其智勇不終。是其識出華嶠下也。白公亂楚而黜惠王。其埶已不順。且五百人不可得。其爲賊抑易制。列國之賊又非可以語於天下之賊翟義覆轍。可再蹈乎。蔚宗之敗。肇於此矣。且夫欲爲曹操之事而又欲反操之所行。未有能濟者也。袁氏。陶謙。皆非可與共事之人。使𡺩從梁衍之說而拒徵。已無以異於董卓。雋受陶謙之戴而迎帝。亦不免卒爲劉虞。何如甘屯蹶肅王命乎。}}<noinclude></noinclude>
+
+〔第130頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>
 
 〔第131頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -1098,3 +1104,6 @@
 〔第175頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 兵纏魏象。注。魏象。闕也。{{*|案周官象魏。本謂懸象之闕。范氏爲贊。倒作魏象。取協廣蕩。實六代辭章靡敝之失。}}<noinclude></noinclude>
+
+〔第176頁〕
+<noinclude><pagequality level="0" user="CollationBot" /></noinclude><noinclude></noinclude>

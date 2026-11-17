@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""把 .src/ 裡的維基文庫底稿轉成前端用的靜態數據（site/data/）。
+"""把 .src/ 裡從維基文庫同步來的文本轉成前端用的靜態數據（site/data/）。
 
     來源                    提供
-    .src/book.json         卷目、各卷的冊次與頁碼範圍、校補起始頁、掃描圖地址、換用他本的頁
+    .src/book.json         卷目、各卷的冊次與頁碼範圍、掃描圖地址、換用他本的頁
     .src/pages/NN.wiki     第 NN 冊各頁的 wikitext（Page: 頁面原樣，以「〔第N頁〕」分頁）
     .src/variants.json     檢索用的繁簡、異體字組
 
@@ -352,7 +352,7 @@ def main():
     stray = sorted((v, p) for v in vols for p, pg in vols[v].items() if pg["b"] and (v, p) not in covered)
 
     (OUT / "toc.json").write_text(json.dumps({
-        "imported": book["imported"], "work": book["work"], "index": book["index"],
+        "fetched": book["fetched"], "work": book["work"], "index": book["index"],
         "files": book["files"], "alt": book.get("alt", {}), "juan": toc,
     }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     shutil.copy(SRC / "variants.json", OUT / "variants.json")

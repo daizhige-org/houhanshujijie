@@ -148,10 +148,10 @@ function showHome() {
         el("h2", { text: "文本來源與可靠程度" },),
         el("p", {},
           "卷次與文字取自", el("a", { href: "https://zh.wikisource.org/wiki/" + encodeURIComponent(S.toc.work), target: "_blank", rel: "noopener", text: "維基文庫《後漢書集解》" }),
-          `的整理本（底稿於 ${S.toc.imported} 導入），底本是慶應義塾大學圖書館藏長沙王氏虛受堂刻本，乙卯（1915）開雕，癸亥（1924 年初）畢工。`,
+          `的整理本（${S.toc.fetched} 同步），底本是慶應義塾大學圖書館藏長沙王氏虛受堂刻本，乙卯（1915）開雕，癸亥（1924 年初）畢工。`,
           `全書 ${pages.toLocaleString()} 頁中只有 ${proof} 頁已對照原圖校對（頁碼旁標「校」）；`,
-          "其餘頁面是把電子文本按頁對位而成的初稿，錯字、脫文、斷句和分頁錯位都可能有，引用前請核對掃描原圖。",
-          "卷首各篇和一部分卷原文沒有句讀。",
+          "其餘頁面是把電子文本按頁對位而成的初稿，錯字、脫文、衍文、斷句和分頁錯位都可能有，引用前請核對掃描原圖。",
+          "一部分卷原文沒有句讀。",
           `全書約 ${Math.round(chars / 10000)} 萬字。`),
         el("p", {},
           el("a", { href: "full-site-download.zip", download: "", text: "下載整站離線包（zip）" }),
@@ -645,7 +645,7 @@ function openScan(p, { auto = false } = {}) {
   } else {
     panel.classList.remove("loading");
     body.classList.remove("zoom");
-    body.replaceChildren(el("p", { text: `沒有第 ${doc.vol} 冊掃描本的地址。重新運行 tools/import_drafts.py 和 build.py 後再試。` }));
+    body.replaceChildren(el("p", { text: `沒有第 ${doc.vol} 冊掃描本的地址。重新運行 tools/fetch_wikisource.py 和 build.py 後再試。` }));
   }
   if ($("#scan").hidden) {
     // 版面變窄會讓正文重排：打開後把點的那一頁留在視野裡

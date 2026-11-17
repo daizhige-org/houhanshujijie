@@ -307,6 +307,9 @@
 
 尙和帝女臨潁長公主。{{*|潁官本作穎非}}<noinclude></noinclude>
 
+〔第54頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第55頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|吳葢陳臧列傳第八{{gap|6em}}後漢書十八}}
@@ -963,6 +966,9 @@
 大僕吾之禦侮也。注。尙書大傳。{{*|傳。官本誤傅。}}
 
 邊庭懷和{{*|官本庭作廷。}}<noinclude></noinclude>
+
+〔第162頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
 
 〔第163頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>

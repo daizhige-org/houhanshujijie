@@ -261,6 +261,9 @@
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 郡所上符瑞。合於圖書者。數百千所。{{*|侯康曰。東觀記。章帝時。鳳皇見百三十九。麒麟五十二。白虎二十九。黃龍三十四。靑龍、黃鵠、鸞鳥、神馬、神雀、九尾狐、三足烏、赤烏、白兔白鹿、白燕、白鵲、甘露、嘉瓜、秬秠、明珠、芝英、華苹、朱草、連理、實日月不絕。載于史官。不可勝紀。}}<noinclude></noinclude>
 
+〔第46頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
+
 〔第47頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 {{c|孝和孝殤帝紀第四{{gap|6em}}後漢書四}}
@@ -546,7 +549,10 @@
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
 其減太官。導官。尙方。內署諸服御珍膳靡麗難成之物。注。內署掌內府衣物。{{*|錢大昭曰內署當作內者注亦誤。續志少府屬官有內者令掌中布張諸衣物。案漢官有謁者。內謁者。不聞有內者。且內者二字名官。於義無當。續志之內者令。未必非卽內署令之譌。觀通鑑胡注引章懷此注。亦與正文同作內署。則宋明本皆如此矣。呂强傳。每郡國貢獻。先輸中署。注亦云。中署、內署也。則內署非有誤可知。}}
 
-八月辛亥帝崩。集解。天下敖然。{{*|聚珍本東觀記。敖作嗷}}<noinclude></noinclude>
+八月辛亥帝崩。集解。天下敖然。{{*|聚珍本東觀記。敖作嗸。}}<noinclude></noinclude>
+
+〔第92頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
 
 〔第93頁〕
 <noinclude><pagequality level="1" user="CollationBot" /></noinclude>
@@ -894,3 +900,6 @@
 葬孝安皇帝于恭陵。注。在今洛州東北二十七里。{{*|通鑑胡注引此注。洛州作洛陽。是也。官本。州亦作陽。}}
 
 高十五丈也{{*|官本無也字。}}<noinclude></noinclude>
+
+〔第142頁〕
+<noinclude><pagequality level="0" user="PacmanD" /></noinclude><noinclude></noinclude>
